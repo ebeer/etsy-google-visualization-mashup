@@ -65,10 +65,6 @@ public class SearchFormController {
 		SearchFormModel formModel = new SearchFormModel();
 		
 		formModel = getDisplayInformation(SearchFormModel.DEFAULT_REGION);
-		//formModel.setNumSelf(1);
- 		//formModel.setNumCollective(4);
- 		//formModel.setNumOther(5);
- 		//formModel.setSelectedRegionLabel("United States");
  		
 		model.addAttribute("searchRequest", formModel );
 		return page;
