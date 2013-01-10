@@ -5,7 +5,7 @@ This Spring Java app queries the featured listings on the Etsy Home Page through
 The results are tabulated to provide a summary of where the items are sourced (made by the seller, made by the seller's group, or made by someone else).
 These results are displayed in a Pie Chart thanks to the Google Visualization API.
 
-![screenshot](https://github.com/ebeer/etsy-google-visualization-mashup/screenshot.gif)
+![screenshot](https://github.com/ebeer/etsy-google-visualization-mashup/blob/master/screenshot.gif)
 
 
  
